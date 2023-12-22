@@ -1,0 +1,42 @@
+body {
+    font-family: Times New Roman;
+    margin: 0;
+    
+    background-image:url(http://www.nawpic.com/media/2020/aesthetic-backgrounds-nawpic-53.jpg);
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-image: URL(https://www.wallpapertip.com/wmimgs/24-247435_light-blue-aesthetic-background.jpg);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 8px;
+    margin-right: 8px;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #eee;
+}
+
+/* Add this CSS to style the completed tasks */
+.completed {
+    
+    color: #888;
+}
